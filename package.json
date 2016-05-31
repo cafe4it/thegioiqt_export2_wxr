@@ -1,0 +1,15 @@
+{
+  "name": "thegioiqt_export2_wxr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mssql": "^3.3.0",
+    "wxr": "^0.1.2"
+  }
+}
