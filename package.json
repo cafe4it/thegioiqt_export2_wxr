@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "fs": "0.0.2",
+    "hat": "0.0.3",
+    "lodash": "^4.13.1",
     "mssql": "^3.3.0",
-    "wxr": "^0.1.2"
+    "wxr": "^0.1.2",
+    "xmlbuilder": "^8.2.2"
   }
 }
